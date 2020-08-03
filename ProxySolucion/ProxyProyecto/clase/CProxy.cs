@@ -70,7 +70,7 @@ namespace ProxyProyecto.clase
         {
         }
 
-        //Esta es la clase que esamos protegiendo con el Proxy
+        //Esta es la clase que estamos protegiendo con el Proxy
         private class CCocina
         {
             public void RecetaSecreta()
