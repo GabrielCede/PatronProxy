@@ -6,7 +6,7 @@ namespace ProxyProyecto.clase
 {
     public class CProxy
     {
-        //Haremos uso de anidaminetO dentro de la clase 
+        //Haremos uso de anidamiento dentro de la clase 
         //Esto hace que cualquier clase colocada como privada y anidada,solo sea conocida por Cproxy
 
 
