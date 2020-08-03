@@ -1,0 +1,13 @@
+C:\Users\ecker\source\repos\ProxySolucion\ProxyProyecto\obj\Debug\netcoreapp3.1\ProxyProyecto.csprojAssemblyReference.cache
+C:\Users\ecker\source\repos\ProxySolucion\ProxyProyecto\obj\Debug\netcoreapp3.1\ProxyProyecto.AssemblyInfoInputs.cache
+C:\Users\ecker\source\repos\ProxySolucion\ProxyProyecto\obj\Debug\netcoreapp3.1\ProxyProyecto.AssemblyInfo.cs
+C:\Users\ecker\source\repos\ProxySolucion\ProxyProyecto\obj\Debug\netcoreapp3.1\ProxyProyecto.csproj.CoreCompileInputs.cache
+C:\Users\ecker\source\repos\ProxySolucion\ProxyProyecto\bin\Debug\netcoreapp3.1\ProxyProyecto.exe
+C:\Users\ecker\source\repos\ProxySolucion\ProxyProyecto\bin\Debug\netcoreapp3.1\ProxyProyecto.deps.json
+C:\Users\ecker\source\repos\ProxySolucion\ProxyProyecto\bin\Debug\netcoreapp3.1\ProxyProyecto.runtimeconfig.json
+C:\Users\ecker\source\repos\ProxySolucion\ProxyProyecto\bin\Debug\netcoreapp3.1\ProxyProyecto.runtimeconfig.dev.json
+C:\Users\ecker\source\repos\ProxySolucion\ProxyProyecto\bin\Debug\netcoreapp3.1\ProxyProyecto.dll
+C:\Users\ecker\source\repos\ProxySolucion\ProxyProyecto\bin\Debug\netcoreapp3.1\ProxyProyecto.pdb
+C:\Users\ecker\source\repos\ProxySolucion\ProxyProyecto\obj\Debug\netcoreapp3.1\ProxyProyecto.dll
+C:\Users\ecker\source\repos\ProxySolucion\ProxyProyecto\obj\Debug\netcoreapp3.1\ProxyProyecto.pdb
+C:\Users\ecker\source\repos\ProxySolucion\ProxyProyecto\obj\Debug\netcoreapp3.1\ProxyProyecto.genruntimeconfig.cache
