@@ -66,9 +66,6 @@ namespace ProxyProyecto.clase
             }
         }
 
-        internal class Isujeto
-        {
-        }
 
         //Esta es la clase que estamos protegiendo con el Proxy
         private class CCocina
